@@ -2,7 +2,7 @@
 Contributor: Subhajit Dey
 
 
-#Open in colab to view interactive plots
+# Open in colab to view interactive plots
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pufx1DPK2rKysDjfK7XXJyIo2z0cUPtu?usp=sharing)
 
