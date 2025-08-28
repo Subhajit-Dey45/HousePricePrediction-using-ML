@@ -1,6 +1,11 @@
 # 🏠 House Price Prediction using Machine Learning
 Contributor: Subhajit Dey
 
+
+#Open in colab to view interactive plots
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pufx1DPK2rKysDjfK7XXJyIo2z0cUPtu?usp=sharing)
+
 📌 Introduction
 This project focuses on predicting housing prices in California using machine learning techniques. The dataset contains key features related to housing characteristics, demographics, and location.
 
